@@ -80,6 +80,7 @@ nav ul li + li + li {
   }
 
 .circle button {
+    cursor: pointer;
     position: absolute;
     top: 50%;
     left: 50%;
